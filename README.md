@@ -1,6 +1,6 @@
 # duolingo-immersion-button
 userscript to force DuoLingo immersion link in menu
-<hr />
+
 <h1>Install:</h1>
 <ul>
 <li><b>Chrome</b>: Install <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a>.</li>
